@@ -1,5 +1,5 @@
 # casio
-Some scripts/sources for casio e-dictionary.
+Scripts/sources for casio e-dictionary image format.
 
 ## About GRA
 
@@ -29,4 +29,4 @@ Convernt gra file to monocolor png file.
 
 ### png2gra
 
-Convert png file to gra format. Only support the standart size for now.
+Convert png file to gra format. Only support the standard size for now.
